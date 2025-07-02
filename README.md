@@ -21,7 +21,7 @@ We're actively working on exciting new features to make ProxyNova even more powe
 - 🌎 Geolocation tagging of proxies
 - 🖥️ Optional GUI mode
 
-# Stay tuned—this is just the beginning.
+# Stay tuned! this is just the beginning.
 
 
 ## 🛠️ Requirements
