@@ -20,8 +20,8 @@ We're actively working on exciting new features to make ProxyNova even more powe
 - 🧠 Smart sorting (by response time, location, anonymity level)
 - 🌎 Geolocation tagging of proxies
 - 🖥️ Optional GUI mode
-- ⏱️ Scheduled rechecks and background running
-Stay tuned—this is just the beginning.
+
+# Stay tuned—this is just the beginning.
 
 
 ## 🛠️ Requirements
