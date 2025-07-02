@@ -4,7 +4,7 @@ UltrQ is a high-performance, multi-core proxy tester for HTTP/HTTPS proxies. Fea
 
 ## 🚀 Features
 
-- 🧠 Multiprocessing for maximum core usage
+- 🧠 Multiprocessing for fast checking! (Up to 300 proxies/s)
 - 🎯 Fast proxy validation with live status
 - 🎨 Dual colored progress bars (Testing + Working)
 - 🪟 Live Windows console title updates
