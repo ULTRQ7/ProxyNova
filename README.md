@@ -1,6 +1,6 @@
-# ⚡ UltrQ7 ProxyNova - Blazing-Fast Proxy Tester
+# ⚡ UltrQ7 ProxyNova - Blazing-Fast Proxy Scraper & Tester
 
-UltrQ introducing ProxyNova, it's a high-performance, multi-core proxy tester for HTTP/HTTPS proxies. Featuring real-time progress bars, console title updates, and beautiful terminal output, it’s perfect for anyone looking to validate large proxy lists with speed and style.
+UltrQ introducing ProxyNova, it's a high-performance, multi-core proxy tester for HTTP/HTTPS proxies. Featuring real-time progress bars, console title updates, and beautiful terminal output, it’s perfect for anyone looking to generate large proxy lists with speed and style.
 
 ## 🚀 Features
 
